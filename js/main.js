@@ -21,7 +21,6 @@
         // Variables 
 
         slides = $('#my_slider').children();
-        cnt = $('#counter');
         amount = slides.length;
         i = 0;
 
